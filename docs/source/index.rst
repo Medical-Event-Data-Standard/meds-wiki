@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Medical Event Data Standard
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This organization contains GitHub Repositories for the Medical Event Data Standard (MEDS), a simple dataset schema for machine learning over electronic health record (EHR) data. Unlike existing tools, pipelines, or common data models, MEDS is a minimal standard designed for maximum interoperability across datasets, existing tools, and model architectures. By providing a simple standardization layer between datasets and model-specific code, MEDS can help make machine learning research for EHR data dramatically more reproducible, robust, computationally performant, and collaborative. Alongside this report, we also release several existing integrations with models, datasets, and tools, and will work actively with the community going forward for further adoption and use. See our draft proposal for more details, and please leave comments or questions via github issues to help us improve this effort!
 
 .. note::
 
